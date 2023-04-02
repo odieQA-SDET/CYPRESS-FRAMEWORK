@@ -32,12 +32,21 @@ Simple Factorial Web App with cypress + Simple Test Case Manual and Automated Do
 Test the basic functionality of the web application by inputting valid and invalid numbers to calculate the factorial and verify that the calculated result is accurate.
 Test the application with edge cases such as inputting large numbers, decimals, and negative numbers and ensure that the application provides an appropriate response.
 Verify that the application provides error messages for invalid input and empty input fields.
+- Result:
+1. I found at Test ID: TC007 that This test case verifies that when a large number greater than 170 is entered into the input field, the application correctly displays a null output. Why don't display the integer number?
+2. When the user input the negative integer E.g -5, there isn't the error massages 
 
 ##### Usability bugs:
 Test the user interface for ease of use and consistency in design.
 Check if all buttons, links, and input fields are functioning correctly.
 Test the responsiveness of the application on different screen sizes and devices.
 Check the accessibility of the application for users with disabilities.
+- Result:
+1. Button label is "Calclate"?
+2. There is Button Clear Input
+3. The input text don't have the enter keyboard submit
+4. There isn't factorial formula info E,g: n! = ?
+5. There isn't the answer box 
 
 ##### Copywriting issues:
 Review the text used in the application and ensure that it is grammatically correct and clear.
