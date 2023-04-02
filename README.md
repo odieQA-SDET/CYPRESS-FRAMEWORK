@@ -17,13 +17,13 @@ Simple Factorial Web App with cypress + Simple Test Case Manual and Automated Do
 
 > Identify issues: During testing, note down any issues you encounter with the application. This may include functional bugs (e.g. incorrect calculation results), usability bugs (e.g. confusing UI elements), copywriting issues (e.g. typos), and other issues.
 
-> Document issues: Create a professional QA report that documents all the issues you identified during testing. Include details such as the steps to reproduce the issue, the expected behavior, and the actual behavior. Categorize the issues based on severity and priority to help the development team prioritize and address them.
+> Document issues: Create a professional QA report that documents all the issues identified during testing. Include details such as the steps to reproduce the issue, the expected behavior, and the actual behavior. Categorize the issues based on severity and priority to help the development team prioritize and address them.
 
 > Design automated functional testing code and scripts: Using Katalon Studio or Cypress, design and implement automated functional testing scripts that test the factorial calculation feature of the web application. Make assumptions for the application's standard requirements and ensure that the expected results for calculation and website behaviors are met.
 
 > Provide clear instructions: Write clear instructions/guide documents on how to set up and execute the automated testing scripts. Include sample results for reference.
 
-> Document test cases: Create a comprehensive test cases document that includes both manual and automated test cases you conducted. List all the test cases and their expected results.
+> Document test cases: Create a comprehensive test cases document that includes both manual and automated test cases conducted. List all the test cases and their expected results.
 
 
 ### Identify issues in the given web application:
