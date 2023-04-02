@@ -1,0 +1,14 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "Prospace QA of Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Ahmad Dodi Yandra-QA Engineer",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
