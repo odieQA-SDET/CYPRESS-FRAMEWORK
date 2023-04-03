@@ -77,7 +77,7 @@ The test will cover the following scenarios:
 The tests will be executed on the following environment:
 - OS : Windows 10
 - Browser: Chrome 96.0.4664.45
-- Cypress version: 8.5.0
+- Cypress version: 12.9.0
 
 ### Test Case 1: The factorial of 0 is equal to 1
 ##### Test ID: TC001
@@ -262,3 +262,13 @@ Test execution will be performed using the Cypress framework.
 ###### Test Results:
 - The test passed successfully.
 - The application correctly displayed the message 'The factorial of 171 is: null'.
+
+
+### THIS IS OUTPUT of CYPRESS AUTOMATION TESTING in SUCCESS
+
+https://user-images.githubusercontent.com/93814478/229414501-bd4655c2-936c-4178-9ab8-7c10442c9698.mp4
+
+
+
+*License
+-MIT
