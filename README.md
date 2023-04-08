@@ -2,7 +2,7 @@
 Simple Factorial Web App with cypress + Simple Test Case Manual and Automated Documents 
 
 # Test Document for Simple_Factorial-spec.cy.js
-## _The Assessment of Quality Engineering_
+## _The Fullstack of Quality Assurance Engineering_
 
 [![](https://img.shields.io/badge/-odieSDET-1da1f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com)
 [![](https://img.shields.io/badge/-odieSDET-c32aa3?logo=instagram&style=flat-square&logoColor=white)](https://instagram.com) 
