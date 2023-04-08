@@ -42,16 +42,20 @@ Check if all buttons, links, and input fields are functioning correctly.
 Test the responsiveness of the application on different screen sizes and devices.
 Check the accessibility of the application for users with disabilities.
 - Result:
-1. Button label is "Calclate"?
-2. There is Button Clear Input
-3. The input text don't have the enter keyboard submit
-4. There isn't factorial formula info E,g: n! = ?
-5. There isn't the answer box 
+1. There is Button Clear Input
+2. The input text don't have the enter keyboard submit
+3. There isn't factorial formula info E,g: n! = ?
+4. There isn't the answer box 
 
 ##### Copywriting issues:
 Review the text used in the application and ensure that it is grammatically correct and clear.
 Verify that all the text is readable and appropriately sized.
 Check the consistency of the text used in the application, such as button labels and error messages.
+- Result:
+1. The button labels are written with "Calclate"?
+2. Inconsistent error massage
+3. Inconsisten output display for the large number
+4. The text output display is not readable and unappropriately sized
 
 ##### Other factors:
 Check the performance of the web application by monitoring the page load time and response time.
