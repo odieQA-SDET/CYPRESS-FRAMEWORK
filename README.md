@@ -276,7 +276,7 @@ https://user-images.githubusercontent.com/93814478/229414501-bd4655c2-936c-4178-
 
 
 
-### AND CYPRESS AUTOMATION TESTING WITH GIT ACTION in SUCCESS
+### AND CYPRESS AUTOMATION TESTING WITH CI/CD GIT ACTION in SUCCESS
 
 [![Cypress Simple Factorial](https://github.com/odieQA-SDET/CYPRESS-FRAMEWORK/actions/workflows/main.yml/badge.svg)](https://github.com/odieQA-SDET/CYPRESS-FRAMEWORK/actions/workflows/main.yml)
 
